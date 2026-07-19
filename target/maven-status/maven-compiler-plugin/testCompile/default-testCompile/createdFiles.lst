@@ -1,0 +1,4 @@
+com\lucasgmoraes\libraryapi\ApplicationTests.class
+com\lucasgmoraes\libraryapi\repository\LivroRepositoryTest.class
+com\lucasgmoraes\libraryapi\repository\AutorRepositoryTest.class
+com\lucasgmoraes\libraryapi\repository\TransacoesTest.class
