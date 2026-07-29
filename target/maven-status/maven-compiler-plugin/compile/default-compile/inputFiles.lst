@@ -10,6 +10,7 @@ C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\vali
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\controller\mappers\UsuarioMapper.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\controller\dto\ResultadoPesquisaLivroDTO.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\validator\LivroValidator.java
+C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\repository\ClientRepository.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\controller\common\GlobalExceptionHandler.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\controller\dto\UsuarioDTO.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\exceptions\OperacaoNaoPermitidaException.java
@@ -21,13 +22,16 @@ C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\cont
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\controller\LivroController.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\repository\AutorRepository.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\model\Autor.java
+C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\controller\ClientController.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\security\SecurityService.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\config\WebConfiguration.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\repository\specs\LivroSpecs.java
+C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\model\Client.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\exceptions\CampoInvalidoException.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\controller\mappers\LivroMapper.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\Application.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\repository\LivroRepository.java
+C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\config\AuthorizationServerConfiguration.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\controller\LoginViewController.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\exceptions\RegistroDuplicadoException.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\repository\UsuarioRepository.java
@@ -36,6 +40,9 @@ C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\mode
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\service\AutorService.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\service\TransacaoService.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\security\CustomAuthentication.java
+C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\security\CustomRegisteredClientRepository.java
+C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\security\JwtCustomAuthenticationFilter.java
+C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\service\ClientService.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\model\Usuario.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\security\CustomAuthenticationProvider.java
 C:\cursodougllas\sboot\libraryapi\src\main\java\com\lucasgmoraes\libraryapi\controller\dto\ErroResposta.java
