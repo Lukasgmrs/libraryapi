@@ -7,6 +7,7 @@ com\lucasgmoraes\libraryapi\validator\LivroValidator.class
 com\lucasgmoraes\libraryapi\model\GeneroLivro.class
 com\lucasgmoraes\libraryapi\Application.class
 com\lucasgmoraes\libraryapi\repository\ClientRepository.class
+com\lucasgmoraes\libraryapi\config\OpenApiConfiguration.class
 com\lucasgmoraes\libraryapi\security\CustomAuthentication.class
 com\lucasgmoraes\libraryapi\config\DatabaseConfiguration.class
 com\lucasgmoraes\libraryapi\service\UsuarioService.class
